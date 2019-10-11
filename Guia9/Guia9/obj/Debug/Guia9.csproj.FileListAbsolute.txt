@@ -1,0 +1,13 @@
+C:\Users\Sistemas\Documents\Guia9\Guia9\bin\Debug\Guia9.exe.config
+C:\Users\Sistemas\Documents\Guia9\Guia9\bin\Debug\Guia9.exe
+C:\Users\Sistemas\Documents\Guia9\Guia9\bin\Debug\Guia9.pdb
+C:\Users\Sistemas\Documents\Guia9\Guia9\obj\Debug\Guia9.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Documents\Guia9\Guia9\obj\Debug\Guia9.exe
+C:\Users\Sistemas\Documents\Guia9\Guia9\obj\Debug\Guia9.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\bin\Debug\Guia9.exe.config
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\bin\Debug\Guia9.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\bin\Debug\Guia9.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\obj\Debug\Guia9.csprojAssemblyReference.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\obj\Debug\Guia9.csproj.CoreCompileInputs.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\obj\Debug\Guia9.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\Guia9\Guia9\obj\Debug\Guia9.pdb
